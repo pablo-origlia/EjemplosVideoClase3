@@ -1,12 +1,12 @@
 # Sincronizacion: Exclusión Mutua y Seccion Crítica
 
-## Video Clase 3 - Codigo Fuente
+## Codigo Fuente - Ejemplo analizado en Clase 3 (22/4/2022)
 ```
 raceConditionBank.py
 raceConditionBankLock.py
 ```
 
-## Ejercicio:
+## Ejercicio y Cuestionario - Clase 3 (22/4/2022):
 
 ```
 globalContador.py
