@@ -3,9 +3,9 @@ import threading
 contador = 0
 
 def funcion():
-    global contador
-    for i in range(1000000):
-        contador += 1
+  global contador
+  for i in range(1000000):
+    contador += 1
 
 print("Inicio programa principal")
 print("Valor Inicial: " + str(contador))
@@ -23,7 +23,3 @@ thread_2.join()
 thread_3.join()
 
 print("Valor Final: " + str(contador))
-
-
-
-
